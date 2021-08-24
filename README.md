@@ -32,3 +32,6 @@
 
 Курс: Основы Javascript в браузере
 - [x] [Домашние задания по курсу «Основы Javascript в браузере»](https://github.com/a-naraikin/netology_bhj-homeworks)
+- [x] [Задание на дипломный проект курса «Основы JavaScript в браузере»](https://github.com/a-naraikin/netolog_bhj-diploma)  
+- [x] [Сертификат](https://drive.google.com/file/d/1ywHUOIo64sxslRVTHgqT-QtjjiH5nEfj/view?usp=sharing)
+
